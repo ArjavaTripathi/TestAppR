@@ -14,6 +14,7 @@
 		213D04452952F8CA0022DB46 /* Test_AppRTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 213D04442952F8CA0022DB46 /* Test_AppRTests.swift */; };
 		213D044F2952F8CA0022DB46 /* Test_AppRUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 213D044E2952F8CA0022DB46 /* Test_AppRUITests.swift */; };
 		213D04512952F8CA0022DB46 /* Test_AppRUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 213D04502952F8CA0022DB46 /* Test_AppRUITestsLaunchTests.swift */; };
+		219A5C232956E21B00B82B76 /* NavBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 219A5C222956E21B00B82B76 /* NavBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		213D044A2952F8CA0022DB46 /* Test-AppRUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Test-AppRUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		213D044E2952F8CA0022DB46 /* Test_AppRUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test_AppRUITests.swift; sourceTree = "<group>"; };
 		213D04502952F8CA0022DB46 /* Test_AppRUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test_AppRUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		219A5C222956E21B00B82B76 /* NavBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				213D04332952F8C80022DB46 /* Test_AppRApp.swift */,
 				213D04352952F8C80022DB46 /* ContentView.swift */,
+				219A5C222956E21B00B82B76 /* NavBar.swift */,
 				213D04372952F8CA0022DB46 /* Assets.xcassets */,
 				213D04392952F8CA0022DB46 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				213D04362952F8C80022DB46 /* ContentView.swift in Sources */,
 				213D04342952F8C80022DB46 /* Test_AppRApp.swift in Sources */,
+				219A5C232956E21B00B82B76 /* NavBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
